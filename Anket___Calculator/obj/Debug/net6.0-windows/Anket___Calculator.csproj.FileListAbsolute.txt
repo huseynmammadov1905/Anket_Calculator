@@ -1,0 +1,17 @@
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\bin\Debug\net6.0-windows\Anket___Calculator.exe
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\bin\Debug\net6.0-windows\Anket___Calculator.deps.json
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\bin\Debug\net6.0-windows\Anket___Calculator.runtimeconfig.json
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\bin\Debug\net6.0-windows\Anket___Calculator.dll
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\bin\Debug\net6.0-windows\Anket___Calculator.pdb
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\obj\Debug\net6.0-windows\Anket___Calculator.csproj.AssemblyReference.cache
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\obj\Debug\net6.0-windows\Anket___Calculator.Form1_Anket.resources
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\obj\Debug\net6.0-windows\Anket___Calculator.csproj.GenerateResource.cache
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\obj\Debug\net6.0-windows\Anket___Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\obj\Debug\net6.0-windows\Anket___Calculator.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\obj\Debug\net6.0-windows\Anket___Calculator.AssemblyInfo.cs
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\obj\Debug\net6.0-windows\Anket___Calculator.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\obj\Debug\net6.0-windows\Anket___Calculator.dll
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\obj\Debug\net6.0-windows\refint\Anket___Calculator.dll
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\obj\Debug\net6.0-windows\Anket___Calculator.pdb
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\obj\Debug\net6.0-windows\Anket___Calculator.genruntimeconfig.cache
+C:\Users\memme\source\repos\Anket___Calculator\Anket___Calculator\obj\Debug\net6.0-windows\ref\Anket___Calculator.dll

@@ -1,0 +1,17 @@
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Form2_Calculator.resources
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\memme\source\repos\Anket___Calculator\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll
